@@ -13,7 +13,6 @@ Berikut adalah panduan untuk **menginstal, mengonfigurasi, dan mengoptimalkan Cy
 
 ---
 
-Purwanto 
 ## **1. Persiapan Awal**
 1. **Update Sistem**  
    Jalankan perintah berikut untuk memperbarui paket sistem:
